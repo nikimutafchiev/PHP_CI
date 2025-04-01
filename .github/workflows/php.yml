@@ -35,3 +35,5 @@ jobs:
 
     - name: Unit Tests
       run: ./vendor/bin/pest
+    - name: Formatter Pint
+      run: ./vendor/bin/pint
